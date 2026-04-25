@@ -1,5 +1,3 @@
-# PRODIGY_CS_Task4
-
 
 # Keylogger
 
@@ -55,4 +53,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to adjust this template to fit any additional information or requirements specific to your project.
